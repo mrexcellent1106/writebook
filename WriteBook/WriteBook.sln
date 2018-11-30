@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WriteBook", "WriteBook\WriteBook.csproj", "{353DAE5B-05B1-4DCE-83B0-E6313C27ECEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{353DAE5B-05B1-4DCE-83B0-E6313C27ECEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{353DAE5B-05B1-4DCE-83B0-E6313C27ECEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{353DAE5B-05B1-4DCE-83B0-E6313C27ECEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{353DAE5B-05B1-4DCE-83B0-E6313C27ECEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94909EA7-4F6E-448C-8459-D42C3DEF196D}
+	EndGlobalSection
+EndGlobal

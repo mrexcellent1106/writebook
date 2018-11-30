@@ -1,0 +1,14 @@
+C:\Users\droni\Desktop\C#\lectureONLINE\WriteBook\WriteBook\obj\Debug\WriteBook.csprojAssemblyReference.cache
+C:\Users\droni\Desktop\C#\lectureONLINE\WriteBook\WriteBook\obj\Debug\WriteBook.csproj.CoreCompileInputs.cache
+C:\Users\droni\Desktop\C#\lectureONLINE\WriteBook\WriteBook\bin\Debug\WriteBook.exe.config
+C:\Users\droni\Desktop\C#\lectureONLINE\WriteBook\WriteBook\bin\Debug\WriteBook.exe
+C:\Users\droni\Desktop\C#\lectureONLINE\WriteBook\WriteBook\bin\Debug\WriteBook.pdb
+C:\Users\droni\Desktop\C#\lectureONLINE\WriteBook\WriteBook\obj\Debug\WriteBook.exe
+C:\Users\droni\Desktop\C#\lectureONLINE\WriteBook\WriteBook\obj\Debug\WriteBook.pdb
+C:\Users\droni\Desktop\WriteBook\WriteBook\bin\Debug\WriteBook.exe.config
+C:\Users\droni\Desktop\WriteBook\WriteBook\bin\Debug\WriteBook.exe
+C:\Users\droni\Desktop\WriteBook\WriteBook\bin\Debug\WriteBook.pdb
+C:\Users\droni\Desktop\WriteBook\WriteBook\obj\Debug\WriteBook.csprojAssemblyReference.cache
+C:\Users\droni\Desktop\WriteBook\WriteBook\obj\Debug\WriteBook.csproj.CoreCompileInputs.cache
+C:\Users\droni\Desktop\WriteBook\WriteBook\obj\Debug\WriteBook.exe
+C:\Users\droni\Desktop\WriteBook\WriteBook\obj\Debug\WriteBook.pdb
